@@ -33,16 +33,16 @@ To build a backend system that can efficiently store, retrieve, and query struct
 
 ## 🚀 How to Run Locally
 
-### Prerequisites
+## Prerequisites
 1. Install [MongoDB Community Server](https://www.mongodb.com/try/download/community).
 2. Install Python 3.x.
 
-### Installation Steps
+## Installation Steps
 1. **Start the MongoDB Server:**
    Open a terminal and run:
    ```bash
    mongod --dbpath C:\data\db
 
-### Project Screenshots
+##Project Screenshots
 
 <img width="1917" height="1015" alt="Screenshot 2026-11-24 134223" src="https://github.com/user-attachments/assets/71505ef6-2a76-463f-ad5e-1c093ebd5269" />
