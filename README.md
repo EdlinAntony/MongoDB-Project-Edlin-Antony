@@ -42,3 +42,7 @@ To build a backend system that can efficiently store, retrieve, and query struct
    Open a terminal and run:
    ```bash
    mongod --dbpath C:\data\db
+
+### Project Screenshots
+
+<img width="1917" height="1015" alt="Screenshot 2026-11-24 134223" src="https://github.com/user-attachments/assets/71505ef6-2a76-463f-ad5e-1c093ebd5269" />
